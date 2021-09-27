@@ -1,0 +1,15 @@
+{"coord":
+  {"lon":-122.3321,"lat":47.6062},
+  "weather":[
+    {"id":500,"main":"Rain","description":"light rain","icon":"10n"},
+    {"id":701,"main":"Mist","description":"mist","icon":"50n"}],
+  "base":"stations",
+  "main":{"temp":288.47,"feels_like":288.46,"temp_min":286.68,"temp_max":290.55,"pressure":1005,"humidity":92},
+  "visibility":6437,
+  "wind":{"speed":2.68,"deg":212,"gust":7.15},
+  "rain":{"1h":0.43},
+  "clouds":{"all":90},
+  "dt":1632725943,
+  "sys":{"type":2,"id":2004026,"country":"US","sunrise":1632751397,"sunset":1632794220},
+  "timezone":-25200,"id":5809844,"name":"Seattle","cod":200
+}
